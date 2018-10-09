@@ -1,0 +1,12 @@
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\Assignment2Tests.dll
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\Assignment2Tests.pdb
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\Assignment2.exe
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\nunit.framework.dll
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\Assignment2.pdb
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\Assignment2.exe.config
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\bin\Debug\nunit.framework.xml
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\obj\Debug\Assignment2Tests.csprojAssemblyReference.cache
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\obj\Debug\Assignment2Tests.csproj.CoreCompileInputs.cache
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\obj\Debug\Assignment2Tests.csproj.CopyComplete
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\obj\Debug\Assignment2Tests.dll
+C:\Users\vk\Desktop\qa\Assignment2\Assignment2Tests\obj\Debug\Assignment2Tests.pdb
